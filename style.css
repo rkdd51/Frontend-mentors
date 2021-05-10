@@ -1,0 +1,19 @@
+*{
+    box-sizing: border-box;
+}
+
+body {
+    background-color:hsl(233, 47%, 7%);
+}
+
+.card{
+    margin:150px 150px;
+    border-radius: 8px;
+
+    background-color:hsl(244, 38%, 16%);
+}
+
+img{
+    background-color:hsla(0, 0%, 100%, 0.6);
+    margin-left:650px;
+}
